@@ -16,6 +16,7 @@ To test the project, run
 ## Known bugs
 - When you write a review and click submit it sometimes submit two times in a row into firebase. One with all of the info and one that is empty. 
 - If you search and type something incorrect, it wont let you search again, so you have to refresh the page. 
+- Sometimes global.css dont always work in chrome, so if you are using chrome and there is a margin on both sides a temporary solution to this is to just press Ctrl + Shift + R (command if you're using mac)
 
 ### With [surge] (website-demo)
 
