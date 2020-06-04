@@ -1,6 +1,5 @@
 <script>
 export let get
-
 </script>
 
 <svelte:head>
