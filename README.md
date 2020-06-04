@@ -1,4 +1,4 @@
-# HOVEDPROSJEKT, temaoppgave 8
+# Main project
 This is a skincare webpage built using <a href='https://svelte.dev/'> Svelte </a>. This webpage fetches and displays skincare products using my own<a href="https://console.firebase.google.com/u/0/project/skincare-firestore/database/firestore/data~2Fproducts~2F0CUhPq4q9HCILeyAT0J2"> firebase </a>. The user can navigate through the webpage and find different skincare products sorted by product type, category and brand. 
 
 ## How To Get started
